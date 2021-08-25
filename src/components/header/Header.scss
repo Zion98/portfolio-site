@@ -1,5 +1,5 @@
 @import "../../_globalColor";
-
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
 /*React-headroom*/
 .headroom-wrapper {
   max-height: 100px;
@@ -61,7 +61,7 @@
 }
 
 .header .logo-name {
-  font-family: "Agustina Regular";
+  font-family: "Mulish";
   font-weight: bold;
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;
