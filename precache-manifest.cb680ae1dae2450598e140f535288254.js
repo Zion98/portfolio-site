@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89772b09141daf3c7fd1331e8a391e44",
+    "revision": "afc98a32ecf909a3fd8f3546f1e53617",
     "url": "/index.html"
   },
   {
-    "revision": "c198e6227546b79fdf53",
+    "revision": "706592468d01ada03651",
     "url": "/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "f724a23088b0f4da475a",
+    "revision": "2084b2fd74e60bcb9194",
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "25a1f843dc1a995c880e",
-    "url": "/static/css/main.5214c24d.chunk.css"
+    "revision": "40d93a6e1b5e243fcf1f",
+    "url": "/static/css/main.e2276a1a.chunk.css"
   },
   {
-    "revision": "718c8ae10c956cfa52c5",
-    "url": "/static/js/2.c996a98a.chunk.js"
+    "revision": "71194ca6040ee2f1a858",
+    "url": "/static/js/2.0130a661.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.c996a98a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0130a661.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c198e6227546b79fdf53",
-    "url": "/static/js/3.588513cb.chunk.js"
+    "revision": "706592468d01ada03651",
+    "url": "/static/js/3.9442fed4.chunk.js"
   },
   {
-    "revision": "f724a23088b0f4da475a",
-    "url": "/static/js/4.ff613e49.chunk.js"
+    "revision": "2084b2fd74e60bcb9194",
+    "url": "/static/js/4.fbf97684.chunk.js"
   },
   {
-    "revision": "25a1f843dc1a995c880e",
-    "url": "/static/js/main.08a606ab.chunk.js"
+    "revision": "40d93a6e1b5e243fcf1f",
+    "url": "/static/js/main.1e23b7b6.chunk.js"
   },
   {
-    "revision": "dec3ea45970ff38cab58",
-    "url": "/static/js/runtime-main.4bb4256c.js"
+    "revision": "cef819efabffba162481",
+    "url": "/static/js/runtime-main.2a88b92f.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
+    "revision": "45c98f56ee1440d3025f49eae1f31977",
+    "url": "/static/media/blog.45c98f56.webp"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -60,24 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
+    "revision": "8b470a11d7d5b93a1dc479a0310f17e4",
+    "url": "/static/media/screenshot.8b470a11.png"
   },
   {
     "revision": "6166b2c5ae739e58e679dff6ee48cbad",
